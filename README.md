@@ -1,4 +1,4 @@
-# React Recipie App
+# React Task Maker- TODO List
 
 This is the project made for Task maker (todo list). App has CRUD functionality.
 
