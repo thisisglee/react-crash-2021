@@ -1,6 +1,6 @@
 # React Recipie App
 
-This is the project made from Edamam API, which populates the recipe cards. App can search query and filter the recipes.
+This is the project made for Task maker (todo list). App has CRUD functionality.
 
 <ul> Technologies Used
   <li>React</li>
